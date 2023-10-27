@@ -1,1 +1,7 @@
 .github/**
+# Ignore microsoft excel csv files
+*.csv
+
+chicago
+new_york_city
+washington
