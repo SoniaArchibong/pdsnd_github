@@ -4,14 +4,18 @@
 27/10/2023
 
 ### Project Title
-Version contrl
+Git Version Control - Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+The "Git Version Control - Bikeshare Project" is an exploration and application of Git for version control, specifically tailored to the bikeshare project. The bikeshare project involves analyzing data related to bike-sharing systems, and through this version control project, we aim to demonstrate effective collaboration, tracking of changes, and management of the bikeshare project's codebase using Git.
+
 
 ### Files used
-Include the files used
+- `bikeshare.py`: The main Python script containing the bikeshare project code.
+- `README.md`: Project documentation providing essential information about the bikeshare project and its version control using Git.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+- [GitHub Documentation](https://docs.github.com/): Official documentation on Git and GitHub for best practices and collaboration.
+- [Udacity Data Science Nanodegree - Version Control with Git](https://www.udacity.com/course/data-scientist-nanodegree--nd025): Udacity's course provided valuable insights into using Git for version control in data science projects.
+- [Pandas Documentation](https://pandas.pydata.org/docs/): The Pandas documentation was referenced for data manipulation within the bikeshare project..
 
